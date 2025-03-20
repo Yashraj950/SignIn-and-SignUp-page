@@ -25,7 +25,7 @@ export default function RootLayout({
 
 }>) {
   return (
-    <html lang="en"  className="dark">
+    <html lang="en"  className="dark ">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
       <UIProvider>
           {children}

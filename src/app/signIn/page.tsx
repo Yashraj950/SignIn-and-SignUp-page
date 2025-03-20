@@ -81,7 +81,7 @@ const page = () => {
           <Link href="" className="text-blue-700 font-semibold hover:text-blue-600">Terms & Conditions</Link>
           </div>
 
-          <Button  className="w-full mt-4" color="primary">Sign Up</Button>
+         <Link href="/demo1"> <Button  className="w-full mt-4" color="primary">Sign Up</Button></Link>
           
         </div>
       </div>
